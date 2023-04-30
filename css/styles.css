@@ -1,0 +1,42 @@
+.imgFondo{
+    background-image: url(../assets/hawaii.jpg);
+    height: 80vh;
+    background-position: center;
+    background-size: cover;
+    margin-top: 5em;
+    background-color: rgb(50, 50, 50);
+    background-blend-mode: soft-light;
+}
+
+.navegacion{
+    padding: 2rem;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.navegacion a{
+    text-decoration: none;
+    color: white;
+}
+
+.footer{
+    background-color: #1C3F52;
+    
+}
+
+.boton{
+    padding: 0.1px;
+}   
+
+.formulario{
+    width: 60%;
+}
+
+.botons{
+    background-color: rgb(166, 212, 66);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    border: none;
+    border-radius: 10px;
+}
